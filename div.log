@@ -1,0 +1,16 @@
+2024-05-17 12:29:40,136 ERROR Division by zero error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_8236\466535082.py", line 6, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2024-05-17 12:29:40,136 DEBUG Execution completed
+2024-05-17 12:31:54,105 DEBUG Division successful!
+2024-05-17 12:31:54,105 DEBUG Execution completed
+2024-05-17 12:31:59,777 ERROR Division by zero error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_8236\466535082.py", line 6, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2024-05-17 12:31:59,777 DEBUG Execution completed
